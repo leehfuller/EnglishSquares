@@ -1,0 +1,14 @@
+C:\TFS\EnglishSquares\obj\Debug\EnglishSquares.csprojResolveAssemblyReference.cache
+C:\TFS\EnglishSquares\obj\Debug\EnglishSquares.AboutEnglishSquares.resources
+C:\TFS\EnglishSquares\obj\Debug\EnglishSquares.BattleStatus.resources
+C:\TFS\EnglishSquares\obj\Debug\EnglishSquares.EnglishSquares.resources
+C:\TFS\EnglishSquares\obj\Debug\EnglishSquares.GameComplete.resources
+C:\TFS\EnglishSquares\obj\Debug\EnglishSquares.GameStatus.resources
+C:\TFS\EnglishSquares\obj\Debug\EnglishSquares.NewGame.resources
+C:\TFS\EnglishSquares\obj\Debug\EnglishSquares.UnitStatus.resources
+C:\TFS\EnglishSquares\obj\Debug\EnglishSquares.csproj.GenerateResource.Cache
+C:\TFS\EnglishSquares\EnglishSquares.exe.config
+C:\TFS\EnglishSquares\obj\Debug\EnglishSquares.exe
+C:\TFS\EnglishSquares\obj\Debug\EnglishSquares.pdb
+C:\TFS\EnglishSquares\EnglishSquares.exe
+C:\TFS\EnglishSquares\EnglishSquares.pdb

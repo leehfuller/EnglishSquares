@@ -1,0 +1,15 @@
+C:\TFS\EnglishSquares\obj\Release\EnglishSquares.AboutEnglishSquares.resources
+C:\TFS\EnglishSquares\obj\Release\EnglishSquares.BattleStatus.resources
+C:\TFS\EnglishSquares\obj\Release\EnglishSquares.EnglishSquares.resources
+C:\TFS\EnglishSquares\obj\Release\EnglishSquares.GameComplete.resources
+C:\TFS\EnglishSquares\obj\Release\EnglishSquares.GameStatus.resources
+C:\TFS\EnglishSquares\obj\Release\EnglishSquares.NewGame.resources
+C:\TFS\EnglishSquares\obj\Release\EnglishSquares.UnitStatus.resources
+C:\TFS\EnglishSquares\obj\Release\EnglishSquares.csproj.GenerateResource.Cache
+C:\TFS\EnglishSquares\EnglishSquares.exe.config
+C:\TFS\EnglishSquares\obj\Release\EnglishSquares.exe
+C:\TFS\EnglishSquares\EnglishSquares.exe
+C:\TFS\EnglishSquares\obj\Release\EnglishSquares.csprojAssemblyReference.cache
+C:\TFS\EnglishSquares\obj\Release\EnglishSquares.csproj.CoreCompileInputs.cache
+C:\TFS\EnglishSquares\EnglishSquares.exe.CodeAnalysisLog.xml
+C:\TFS\EnglishSquares\EnglishSquares.exe.lastcodeanalysissucceeded
