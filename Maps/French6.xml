@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="20" MapSizeY="20" Background="Field5.jpg">
+		<Title Name="French vs Russia 2." />
+		<Description>The Czar has dared to cross
+his troops into French controlled territory. 
+You have the best Imperial cavalry to 
+run them down like the dogs they are!
+</Description>
+	</Setup>
+	<Units Side="French" ComputerStance="Defensive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="C" X="7" Y="15" Morale="200" Strength="200" Training="200" Stance="L" Description="French Cavalry 1" />
+		<Unit Type="C" X="8" Y="15" Morale="200" Strength="200" Training="200" Stance="L" Description="French Cavalry 2" />
+		<Unit Type="C" X="9" Y="15" Morale="200" Strength="200" Training="200" Stance="L" Description="French Cavalry 3" />
+		<Unit Type="C" X="7" Y="14" Morale="200" Strength="200" Training="200" Stance="L" Description="French Cavalry 4" />
+		<Unit Type="C" X="8" Y="14" Morale="200" Strength="200" Training="200" Stance="L" Description="French Cavalry 5" />
+		<Unit Type="C" X="9" Y="14" Morale="200" Strength="200" Training="200" Stance="L" Description="French Cavalry 6" />
+
+		<Unit Type="C" X="4" Y="19" Morale="200" Strength="200" Training="200" Stance="L" Description="French Cavalry Reserves 1" />
+		<Unit Type="C" X="5" Y="19" Morale="200" Strength="200" Training="200" Stance="L" Description="French Cavalry Reserves 2" />
+		<Unit Type="C" X="6" Y="19" Morale="200" Strength="200" Training="200" Stance="L" Description="French Cavalry Reserves 3" />
+		<Unit Type="C" X="13" Y="19" Morale="200" Strength="200" Training="200" Stance="L" Description="French Cavalry Reserves 4" />
+		<Unit Type="C" X="14" Y="19" Morale="200" Strength="200" Training="200" Stance="L" Description="French Cavalry Reserves 5" />
+		<Unit Type="C" X="15" Y="19" Morale="200" Strength="200" Training="200" Stance="L" Description="French Cavalry Reserves 6" />
+	</Units>
+	<Units Side="Russia" ComputerStance="Defensive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="1" Y="1" Morale="100" Strength="200" Training="100" Stance="L" Description="Russian Czars Guard 1" />
+		<Unit Type="I" X="2" Y="1" Morale="100" Strength="200" Training="100" Stance="L" Description="Russian Czars Guard 2" />
+		<Unit Type="I" X="3" Y="1" Morale="100" Strength="200" Training="100" Stance="L" Description="Russian Czars Guard 3" />
+		<Unit Type="I" X="1" Y="2" Morale="100" Strength="200" Training="100" Stance="L" Description="Russian Infantry 1" />
+		<Unit Type="I" X="2" Y="2" Morale="100" Strength="200" Training="100" Stance="L" Description="Russian Infantry 2" />
+		<Unit Type="I" X="3" Y="2" Morale="100" Strength="200" Training="100" Stance="L" Description="Russian Infantry 3" />
+		<Unit Type="I" X="1" Y="3" Morale="100" Strength="200" Training="100" Stance="L" Description="Russian Infantry 4" />
+		<Unit Type="I" X="2" Y="3" Morale="100" Strength="200" Training="100" Stance="L" Description="Russian Infantry 5" />
+		<Unit Type="I" X="3" Y="3" Morale="100" Strength="200" Training="100" Stance="L" Description="Russian Infantry 6" />
+
+		<Unit Type="I" X="5" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Guard 1" />
+		<Unit Type="I" X="6" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Guard 2" />
+		<Unit Type="I" X="7" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Guard 3" />
+		
+    	<Unit Type="C" X="9" Y="8" Morale="100" Strength="200" Training="100" Stance="L" Description="Russian Cavalry 1" />
+		<Unit Type="C" X="10" Y="8" Morale="100" Strength="200" Training="100" Stance="L" Description="Russian Cavalry 2" />
+    	<Unit Type="C" X="11" Y="8" Morale="100" Strength="200" Training="100" Stance="L" Description="Russian Cavalry 3" />
+		<Unit Type="C" X="12" Y="8" Morale="100" Strength="200" Training="100" Stance="L" Description="Russian Cavalry 4" />
+	</Units>
+</Map>

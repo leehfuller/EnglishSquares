@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="12" MapSizeY="12" Background="Field0.jpg">
+		<Title Name="French vs Prussia 2." />
+		<Description>The Prussians have ambushed
+your elite guard units whilst escorting
+important papers back to the emperor. This
+battle will be hard on both sides, but you
+must make sure you are the one who
+leaves the field standing.
+</Description>
+	</Setup>
+	<Units Side="French" ComputerStance="Neutral" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="C" X="2" Y="8" Morale="200" Strength="100" Training="200" Stance="L" Description="French Imperial Guard Cavalry 1" />
+		<Unit Type="C" X="3" Y="8" Morale="200" Strength="100" Training="200" Stance="L" Description="French Imperial Guard Cavalry 2" />
+		<Unit Type="C" X="4" Y="8" Morale="200" Strength="100" Training="200" Stance="L" Description="French Imperial Guard Cavalry 3" />
+		<Unit Type="C" X="5" Y="8" Morale="200" Strength="100" Training="200" Stance="L" Description="French Envoy Cavalry 1" />
+		<Unit Type="C" X="6" Y="8" Morale="200" Strength="100" Training="200" Stance="L" Description="French Imperial Guard Cavalry 4" />
+		<Unit Type="C" X="7" Y="8" Morale="200" Strength="100" Training="200" Stance="L" Description="French Imperial Guard Cavalry 5" />
+		<Unit Type="C" X="8" Y="8" Morale="200" Strength="100" Training="200" Stance="L" Description="French Imperial Guard Cavalry 6" />
+		<Unit Type="C" X="9" Y="8" Morale="200" Strength="100" Training="200" Stance="L" Description="French Imperial Guard Cavalry 7" />
+	</Units>
+	<Units Side="Prussia" ComputerStance="Neutral" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="C" X="2" Y="2" Morale="200" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry" />
+		<Unit Type="C" X="3" Y="2" Morale="200" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry" />
+		<Unit Type="C" X="4" Y="2" Morale="200" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry" />
+		<Unit Type="C" X="5" Y="2" Morale="200" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry" />
+		<Unit Type="C" X="6" Y="2" Morale="200" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry" />
+		<Unit Type="C" X="7" Y="2" Morale="200" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry" />
+		<Unit Type="C" X="8" Y="2" Morale="200" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry" />
+		<Unit Type="C" X="9" Y="2" Morale="200" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry" />
+	</Units>
+</Map>

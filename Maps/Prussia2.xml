@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="20" MapSizeY="20" Background="Field1.jpg">
+		<Title Name="Prussia vs Austria 1." />
+		<Description>It is time to expand the empire
+of Prussia into the fertile lands of our
+Austrian cousins. We have assembled a great
+army from which we expect nothing but
+complete victory.
+</Description>
+	</Setup>
+	<Units Side="Prussia" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="4" Y="18" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 1" />
+		<Unit Type="I" X="5" Y="18" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 2" />
+		<Unit Type="I" X="6" Y="18" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 3" />
+		<Unit Type="I" X="7" Y="18" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 4" />
+		<Unit Type="I" X="8" Y="18" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 5" />
+		<Unit Type="I" X="9" Y="18" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 6" />
+		<Unit Type="C" X="15" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 1" />
+		<Unit Type="C" X="16" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 2" />
+		<Unit Type="C" X="17" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 3" />
+		<Unit Type="C" X="14" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 4" />
+		<Unit Type="A" X="3" Y="18" Morale="100" Strength="100" Training="100" Stance="C" Description="Prussian Artillery" />
+	</Units>
+	<Units Side="Austria" ComputerStance="Defensive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="8" Y="4" Morale="100" Strength="100" Training="100" Stance="S" Description="Austrian Infantry 1" />
+		<Unit Type="I" X="9" Y="4" Morale="100" Strength="100" Training="100" Stance="S" Description="Austrian Infantry 2" />
+		<Unit Type="I" X="10" Y="4" Morale="100" Strength="100" Training="100" Stance="S" Description="Austrian Infantry 3" />
+		<Unit Type="I" X="8" Y="5" Morale="100" Strength="100" Training="100" Stance="S" Description="Austrian Infantry 4" />
+		<Unit Type="I" X="9" Y="5" Morale="100" Strength="100" Training="100" Stance="S" Description="Austrian Infantry 5" />
+		<Unit Type="I" X="10" Y="5" Morale="100" Strength="100" Training="100" Stance="S" Description="Austrian Infantry 6" />
+
+		<Unit Type="I" X="15" Y="12" Morale="100" Strength="25" Training="200" Stance="C" Description="Austrian Scouts 1" />
+
+		<Unit Type="C" X="8" Y="3" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 1" />
+		<Unit Type="C" X="9" Y="3" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 2" />
+		<Unit Type="C" X="10" Y="3" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 3" />
+
+		<Unit Type="A" X="9" Y="1" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Artillery" />
+	</Units>
+</Map>

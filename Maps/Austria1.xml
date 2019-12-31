@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="20" MapSizeY="20" Background="Field6.jpg">
+		<Title Name="Austria vs French 1." />
+		<Description>If the Austrian patriots can push Napoleon's
+seasoned troops from the field, they can continue
+their march into Paris. It's time for a reality check
+for the tyrant Napoleon.
+		</Description>
+	</Setup>
+	<Units Side="Austrian" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="2" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 1" />
+		<Unit Type="I" X="3" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 2" />
+		<Unit Type="I" X="4" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 3" />
+		<Unit Type="I" X="12" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 2" />
+		<Unit Type="I" X="13" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 3" />
+		<Unit Type="I" X="14" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 4" />		
+		<Unit Type="C" X="5" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 1" />
+		<Unit Type="C" X="6" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 2" />
+		<Unit Type="C" X="7" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 3" />		
+		<Unit Type="C" X="15" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 4" />
+		<Unit Type="C" X="16" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 5" />
+		<Unit Type="C" X="17" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 6" />
+		<Unit Type="A" X="8" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Artillery 1" />
+		<Unit Type="A" X="18" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Artillery 2" />
+	</Units>
+	<Units Side="French" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="6" Y="10" Morale="150" Strength="150" Training="150" Stance="L" Description="French Infantry 1" />
+		<Unit Type="I" X="7" Y="10" Morale="150" Strength="150" Training="150" Stance="L" Description="French Infantry 2" />
+		<Unit Type="I" X="8" Y="10" Morale="150" Strength="150" Training="150" Stance="L" Description="French Infantry 3" />
+		<Unit Type="C" X="9" Y="10" Morale="150" Strength="150" Training="150" Stance="L" Description="French Cavalry 1" />
+		<Unit Type="C" X="10" Y="10" Morale="150" Strength="150" Training="150" Stance="L" Description="French Cavalry 2" />
+		<Unit Type="C" X="9" Y="9" Morale="150" Strength="150" Training="150" Stance="L" Description="French Cavalry 3" />
+		<Unit Type="C" X="10" Y="9" Morale="150" Strength="150" Training="150" Stance="L" Description="French Cavalry 4" />
+		<Unit Type="A" X="6" Y="9" Morale="150" Strength="150" Training="150" Stance="L" Description="French Artillery 1" />
+	</Units>
+</Map>

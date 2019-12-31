@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="12" MapSizeY="12" Background="Field0.jpg">
+		<Title Name="Prussia vs French 1." />
+		<Description>Napoleon has sent some of
+his finest horseman to teach us Prussians
+the value of fine cavalry. We shall welcome
+them with warm muskets and cold steel.
+</Description>
+	</Setup>
+	<Units Side="Prussia" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="4" Y="7" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 1" />
+		<Unit Type="I" X="5" Y="7" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 2" />
+		<Unit Type="I" X="6" Y="7" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 3" />
+		<Unit Type="I" X="7" Y="7" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 4" />
+		<Unit Type="I" X="4" Y="9" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 5" />
+		<Unit Type="I" X="5" Y="9" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 6" />
+		<Unit Type="I" X="6" Y="9" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 7" />
+		<Unit Type="I" X="7" Y="9" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 8" />
+
+		<Unit Type="C" X="4" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 1" />
+		<Unit Type="C" X="5" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 2" />
+		<Unit Type="C" X="6" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 3" />
+		<Unit Type="C" X="7" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 4" />
+	</Units>
+	<Units Side="French" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="C" X="2" Y="2" Morale="155" Strength="150" Training="200" Stance="L" Description="French Cavalry 1" />
+		<Unit Type="C" X="3" Y="2" Morale="155" Strength="150" Training="200" Stance="L" Description="French Cavalry 2" />
+		<Unit Type="C" X="4" Y="2" Morale="155" Strength="150" Training="200" Stance="L" Description="French Cavalry 3" />
+		<Unit Type="C" X="5" Y="2" Morale="155" Strength="150" Training="200" Stance="L" Description="French Cavalry 4" />
+		<Unit Type="C" X="6" Y="2" Morale="155" Strength="150" Training="200" Stance="L" Description="French Cavalry 5" />
+		<Unit Type="C" X="7" Y="2" Morale="155" Strength="150" Training="200" Stance="L" Description="French Cavalry 6" />
+		<Unit Type="C" X="8" Y="2" Morale="155" Strength="150" Training="200" Stance="L" Description="French Cavalry 7" />
+		<Unit Type="C" X="9" Y="2" Morale="155" Strength="150" Training="200" Stance="L" Description="French Cavalry 8" />
+	</Units>
+</Map>

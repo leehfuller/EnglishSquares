@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="18" MapSizeY="16" Background="Field4.jpg">
+		<Title Name="Tutorial D. Importance of Support." />
+		<Description>Viva Emperor! Can your British line stand against the
+shock of well trained French columns? The key is to
+keep your line tight to make best use of your 
+neighbouring support units. 
+		</Description>
+	</Setup>
+	<Units Side="British" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="5" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 1" />
+		<Unit Type="I" X="6" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 2" />
+		<Unit Type="I" X="7" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 3" />
+		<Unit Type="I" X="8" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 4" />
+		<Unit Type="I" X="9" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 5" />
+		<Unit Type="I" X="8" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 6" />
+		<Unit Type="I" X="9" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 7" />
+		<Unit Type="A" X="7" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="English Artillery 1" />
+	</Units>
+	<Units Side="French" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="4" Y="5" Morale="150" Strength="200" Training="150" Stance="C" Description="French Imperial Guards 1" />
+		<Unit Type="I" X="5" Y="5" Morale="150" Strength="200" Training="150" Stance="C" Description="French Imperial Guards 2" />
+		<Unit Type="I" X="6" Y="5" Morale="150" Strength="200" Training="150" Stance="C" Description="French Imperial Guards 3" />
+		<Unit Type="I" X="7" Y="5" Morale="150" Strength="200" Training="150" Stance="C" Description="French Imperial Guards 4" />
+		<Unit Type="I" X="8" Y="5" Morale="150" Strength="200" Training="150" Stance="C" Description="French Imperial Guards 5" />
+        <Unit Type="I" X="9" Y="5" Morale="150" Strength="200" Training="150" Stance="C" Description="French Imperial Guards 6" />
+        <Unit Type="I" X="10" Y="5" Morale="150" Strength="200" Training="150" Stance="C" Description="French Imperial Guards 7" />
+        
+		<Unit Type="A" X="6" Y="3" Morale="150" Strength="100" Training="150" Stance="L" Description="French Artillery 1" />
+		<Unit Type="A" X="8" Y="3" Morale="150" Strength="100" Training="150" Stance="L" Description="French Artillery 2" />
+	</Units>
+</Map>

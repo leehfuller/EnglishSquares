@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="16" MapSizeY="16" Background="Field2.jpg">
+		<Title Name="Russia vs Austria 1." />
+		<Description>The Austria Cavalry has
+caught a number of the Motherlands
+infantry divisions undefended by
+artillery or cavalry. Try to cause
+as much damage to the Austrians
+as you can.
+</Description>
+	</Setup>
+	<Units Side="Russia" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="5" Y="1" Morale="100" Strength="250" Training="90" Stance="L" Description="Russian Infantry 1" />
+		<Unit Type="I" X="4" Y="2" Morale="100" Strength="250" Training="90" Stance="L" Description="Russian Infantry 2" />
+		<Unit Type="I" X="3" Y="2" Morale="100" Strength="250" Training="90" Stance="L" Description="Russian Infantry 6" />
+		<Unit Type="I" X="3" Y="3" Morale="100" Strength="250" Training="90" Stance="L" Description="Russian Infantry 3" />
+		<Unit Type="I" X="2" Y="3" Morale="100" Strength="250" Training="90" Stance="L" Description="Russian Infantry 7" />
+		<Unit Type="I" X="2" Y="4" Morale="100" Strength="250" Training="90" Stance="L" Description="Russian Infantry 4" />
+		<Unit Type="I" X="1" Y="5" Morale="100" Strength="250" Training="90" Stance="L" Description="Russian Infantry 5" />
+	</Units>
+	<Units Side="Austria" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+       	<Unit Type="C" X="12" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 1" />
+		<Unit Type="C" X="11" Y="6" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 2" />
+		<Unit Type="C" X="10" Y="7" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 3" />
+		<Unit Type="C" X="9" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 4" />
+
+       	<Unit Type="C" X="7" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 5" />
+		<Unit Type="C" X="8" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 6" />
+		<Unit Type="C" X="7" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 7" />
+		<Unit Type="C" X="8" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 8" />
+    </Units>
+</Map>

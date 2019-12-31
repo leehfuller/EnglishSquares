@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="14" MapSizeY="16" Background="Field5.jpg">
+		<Title Name="British vs Austria 2." />
+		<Description>Up close and personal. 
+There has been deception in the royal 
+courts, with the Austrian forces hoping 
+to capture some high-ranking officials
+from the British aristocracy. They're
+been escorted by solid British Infantry
+who should be able to hold the Austrian
+Infantry at bay.
+		</Description>
+	</Setup>
+	<Units Side="British" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="5" Y="11" Morale="200" Strength="20" Training="200" Stance="S" Description="English Royal Party" />
+		<Unit Type="I" X="3" Y="10" Morale="100" Strength="100" Training="120" Stance="L" Description="English Infantry Escort 7" />
+		<Unit Type="I" X="3" Y="9" Morale="100" Strength="100" Training="120" Stance="L" Description="English Infantry Escort 1" />
+		<Unit Type="I" X="4" Y="9" Morale="100" Strength="100" Training="120" Stance="L" Description="English Infantry Escort 2" />
+		<Unit Type="I" X="5" Y="9" Morale="100" Strength="100" Training="120" Stance="L" Description="English Infantry Escort 3" />
+		<Unit Type="I" X="6" Y="9" Morale="100" Strength="100" Training="120" Stance="L" Description="English Infantry Escort 4" />
+		<Unit Type="I" X="7" Y="9" Morale="100" Strength="100" Training="120" Stance="L" Description="English Infantry Escort 5" />
+		<Unit Type="I" X="7" Y="10" Morale="100" Strength="100" Training="120" Stance="L" Description="English Infantry Escort 6" />
+	</Units>
+	<Units Side="Austrian" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="2" Y="4" Morale="100" Strength="120" Training="100" Stance="L" Description="Austrian Infantry 1" />
+		<Unit Type="I" X="3" Y="4" Morale="100" Strength="120" Training="100" Stance="L" Description="Austrian Infantry 2" />
+		<Unit Type="I" X="4" Y="4" Morale="100" Strength="120" Training="100" Stance="L" Description="Austrian Infantry 3" />
+		<Unit Type="I" X="5" Y="4" Morale="100" Strength="120" Training="100" Stance="L" Description="Austrian Infantry 4" />
+		<Unit Type="I" X="6" Y="4" Morale="100" Strength="120" Training="100" Stance="L" Description="Austrian Infantry 5" />
+		<Unit Type="I" X="7" Y="4" Morale="100" Strength="120" Training="100" Stance="L" Description="Austrian Infantry 6" />
+		<Unit Type="I" X="8" Y="4" Morale="100" Strength="120" Training="100" Stance="L" Description="Austrian Infantry 7" />
+		<Unit Type="I" X="9" Y="4" Morale="100" Strength="120" Training="100" Stance="L" Description="Austrian Infantry 8" />
+		<Unit Type="I" X="10" Y="4" Morale="100" Strength="120" Training="100" Stance="L" Description="Austrian Infantry 9" />
+		<Unit Type="I" X="11" Y="4" Morale="100" Strength="120" Training="100" Stance="L" Description="Austrian Infantry 10" />
+		<Unit Type="I" X="10" Y="7" Morale="100" Strength="120" Training="100" Stance="L" Description="Austrian Infantry 11" />
+		<Unit Type="I" X="11" Y="7" Morale="100" Strength="120" Training="100" Stance="L" Description="Austrian Infantry 12" />
+		<Unit Type="I" X="10" Y="8" Morale="100" Strength="40" Training="100" Stance="L" Description="Austrian Scouts 1" />
+		<Unit Type="I" X="11" Y="8" Morale="100" Strength="40" Training="100" Stance="L" Description="Austrian Scouts 2" />
+	</Units>
+</Map>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="15" MapSizeY="12" Background="Field4.jpg">
+		<Title Name="Russia vs British 1." />
+		<Description>The British have landed troops
+on the peninsula of Mother Russia. We have
+many patriotic militia in which we can
+throw at those English scum.
+</Description>
+	</Setup>
+	<Units Side="Russia" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="1" Y="8" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 1" />
+		<Unit Type="I" X="2" Y="8" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 2" />
+		<Unit Type="I" X="3" Y="8" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 3" />
+		<Unit Type="I" X="4" Y="8" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 4" />
+		<Unit Type="I" X="5" Y="8" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 5" />
+		<Unit Type="I" X="6" Y="8" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 6" />
+		<Unit Type="I" X="7" Y="8" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 7" />
+		<Unit Type="I" X="8" Y="8" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 8" />
+		<Unit Type="I" X="9" Y="8" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 9" />
+		<Unit Type="I" X="10" Y="8" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 10" />
+		<Unit Type="I" X="11" Y="8" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 11" />
+		<Unit Type="I" X="12" Y="8" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 12" />
+		<Unit Type="I" X="13" Y="8" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 13" />
+		<Unit Type="I" X="3" Y="9" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 14" />
+		<Unit Type="I" X="4" Y="9" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 15" />
+		<Unit Type="I" X="5" Y="9" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 16" />
+		<Unit Type="I" X="6" Y="9" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 17" />
+		<Unit Type="I" X="7" Y="9" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 18" />
+		<Unit Type="I" X="8" Y="9" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 19" />
+		<Unit Type="I" X="9" Y="9" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 20" />
+		<Unit Type="I" X="10" Y="9" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 21" />
+		<Unit Type="I" X="11" Y="9" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 22" />
+		<Unit Type="C" X="4" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Cavalry 1" />
+		<Unit Type="C" X="5" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Cavalry 2" />
+		<Unit Type="C" X="6" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Cavalry 3" />
+		<Unit Type="A" X="9" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Artillery 4" />
+		<Unit Type="A" X="10" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Artillery 1" />
+	</Units>
+	<Units Side="British" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="2" Y="3" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 1" />
+		<Unit Type="I" X="3" Y="3" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 2" />
+		<Unit Type="I" X="2" Y="4" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 3" />
+		<Unit Type="I" X="3" Y="4" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 4" />
+
+		<Unit Type="I" X="6" Y="3" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 5" />
+		<Unit Type="I" X="7" Y="3" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 6" />
+		<Unit Type="I" X="6" Y="4" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 7" />
+		<Unit Type="I" X="7" Y="4" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 8" />
+
+		<Unit Type="I" X="10" Y="3" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 9" />
+		<Unit Type="I" X="11" Y="3" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 10" />
+		<Unit Type="I" X="10" Y="4" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 11" />
+		<Unit Type="I" X="11" Y="4" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 12" />
+
+		<Unit Type="C" X="5" Y="1" Morale="100" Strength="100" Training="200" Stance="L" Description="British Cavalry 1" />
+		<Unit Type="C" X="6" Y="1" Morale="100" Strength="100" Training="200" Stance="L" Description="British Cavalry 2" />
+		<Unit Type="C" X="7" Y="1" Morale="100" Strength="100" Training="200" Stance="L" Description="British Cavalry 3" />
+		<Unit Type="C" X="8" Y="1" Morale="100" Strength="100" Training="200" Stance="L" Description="British Cavalry 4" />
+
+		<Unit Type="A" X="2" Y="1" Morale="100" Strength="100" Training="200" Stance="L" Description="British Artillery 1" />
+		<Unit Type="A" X="3" Y="1" Morale="100" Strength="100" Training="200" Stance="L" Description="British Artillery 2" />
+		<Unit Type="A" X="10" Y="1" Morale="100" Strength="100" Training="200" Stance="L" Description="British Artillery 3" />
+		<Unit Type="A" X="11" Y="1" Morale="100" Strength="100" Training="200" Stance="L" Description="British Artillery 4" />
+	</Units>
+</Map>

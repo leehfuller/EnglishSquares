@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="24" MapSizeY="24" Background="Field5.jpg">
+		<Title Name="French vs British 2." />
+		<Description>The British troops are taken
+from the scum of their inferior society,
+murders and rapists who would rather
+face our troops than the gallows. Our
+cream artillery and cavalry units will
+make those dirty English wish their
+had been hung.
+		</Description>
+	</Setup>
+	<Units Side="French" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="9" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 1" />
+		<Unit Type="I" X="10" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 2" />
+		<Unit Type="I" X="11" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 3" />
+		<Unit Type="I" X="12" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 4" />
+		<Unit Type="I" X="9" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 5" />
+		<Unit Type="I" X="10" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 6" />
+		<Unit Type="I" X="11" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 7" />
+		<Unit Type="I" X="12" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 8" />
+		<Unit Type="C" X="16" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="French Cavalry 1" />
+		<Unit Type="C" X="17" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="French Cavalry 2" />
+		<Unit Type="C" X="18" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="French Cavalry 3" />
+		<Unit Type="C" X="19" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="French Cavalry 4" />
+		<Unit Type="C" X="20" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="French Cavalry 5" />
+		<Unit Type="C" X="21" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="French Cavalry 6" />
+		<Unit Type="A" X="8" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="French Artillery 1" />
+		<Unit Type="A" X="9" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="French Artillery 2" />
+		<Unit Type="A" X="10" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="French Artillery 3" />
+		<Unit Type="A" X="11" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="French Artillery 4" />
+		<Unit Type="A" X="12" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="French Artillery 5" />
+		<Unit Type="A" X="13" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="French Artillery 6" />
+	</Units>
+	<Units Side="British" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="6" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="British Infantry 1" />
+		<Unit Type="I" X="7" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="British Infantry 2" />
+		<Unit Type="I" X="8" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="British Infantry 3" />
+		<Unit Type="I" X="9" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="British Infantry 4" />
+		<Unit Type="I" X="10" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="British Infantry 5" />
+		<Unit Type="I" X="11" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="British Infantry 6" />
+		<Unit Type="I" X="6" Y="6" Morale="100" Strength="100" Training="100" Stance="L" Description="British Infantry 7" />
+		<Unit Type="I" X="7" Y="6" Morale="100" Strength="100" Training="100" Stance="L" Description="British Infantry 8" />
+		<Unit Type="I" X="8" Y="6" Morale="100" Strength="100" Training="100" Stance="L" Description="British Infantry 9" />
+		<Unit Type="I" X="9" Y="6" Morale="100" Strength="100" Training="100" Stance="L" Description="British Infantry 10" />
+		<Unit Type="I" X="10" Y="6" Morale="100" Strength="100" Training="100" Stance="L" Description="British Infantry 11" />
+		<Unit Type="I" X="11" Y="6" Morale="100" Strength="100" Training="100" Stance="L" Description="British Infantry 12" />
+		
+		<Unit Type="C" X="17" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="British Cavalry 1" />
+		<Unit Type="C" X="18" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="British Cavalry 2" />
+		<Unit Type="C" X="19" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="British Cavalry 3" />
+		<Unit Type="C" X="20" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="British Cavalry 4" />
+
+		<Unit Type="I" X="14" Y="6" Morale="100" Strength="100" Training="100" Stance="L" Description="British Guards 1" />
+		<Unit Type="I" X="15" Y="6" Morale="100" Strength="100" Training="100" Stance="L" Description="British Guards 2" />
+		<Unit Type="A" X="14" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="British Artillery 1" />
+		<Unit Type="A" X="15" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="British Artillery 2" />
+	</Units>
+</Map>

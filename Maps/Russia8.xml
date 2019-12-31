@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="16" MapSizeY="16" Background="Field2.jpg">
+		<Title Name="Russia vs Austria 2." />
+		<Description>We've caught the
+Austrians in the middle of a maneuvure. The
+proper thing to do would be to allow them
+to finish before we start battle, but the
+glory of Mother Russia demands that
+we show no mercy and allow no Austrians
+to leave this field.
+</Description>
+	</Setup>
+	<Units Side="Russia" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="8" Y="5" Morale="90" Strength="150" Training="90" Stance="L" Description="Russian Infantry 1" />
+		<Unit Type="I" X="8" Y="6" Morale="90" Strength="150" Training="90" Stance="L" Description="Russian Infantry 2" />
+		<Unit Type="I" X="8" Y="7" Morale="90" Strength="150" Training="90" Stance="L" Description="Russian Infantry 3" />
+		<Unit Type="I" X="8" Y="8" Morale="90" Strength="150" Training="90" Stance="L" Description="Russian Infantry 4" />
+
+		<Unit Type="C" X="6" Y="9" Morale="90" Strength="150" Training="90" Stance="L" Description="Russian Cavalry 1" />
+		<Unit Type="C" X="6" Y="10" Morale="90" Strength="150" Training="90" Stance="L" Description="Russian Cavalry 2" />
+		<Unit Type="C" X="6" Y="11" Morale="90" Strength="150" Training="90" Stance="L" Description="Russian Cavalry 3" />
+		<Unit Type="C" X="6" Y="12" Morale="90" Strength="150" Training="90" Stance="L" Description="Russian Cavalry 4" />
+		<Unit Type="C" X="6" Y="13" Morale="90" Strength="150" Training="90" Stance="L" Description="Russian Cavalry 5" />
+		<Unit Type="C" X="6" Y="14" Morale="90" Strength="150" Training="90" Stance="L" Description="Russian Cavalry 6" />
+
+		<Unit Type="A" X="4" Y="1" Morale="90" Strength="150" Training="90" Stance="L" Description="Russian Artillery 1" />
+		<Unit Type="A" X="4" Y="2" Morale="90" Strength="150" Training="90" Stance="L" Description="Russian Artillery 2" />
+	</Units>
+	<Units Side="Austria" ComputerStance="Defensive" Depth="2" PruneFar="N" QuickCalc="N">
+       		<Unit Type="C" X="14" Y="1" Morale="100" Strength="100" Training="150" Stance="C" Description="Austrian Cavalry 1" />
+		<Unit Type="C" X="14" Y="2" Morale="100" Strength="100" Training="150" Stance="C" Description="Austrian Cavalry 2" />
+		<Unit Type="C" X="14" Y="3" Morale="100" Strength="100" Training="150" Stance="C" Description="Austrian Cavalry 3" />
+		<Unit Type="C" X="14" Y="4" Morale="100" Strength="100" Training="150" Stance="C" Description="Austrian Cavalry 4" />
+
+       		<Unit Type="I" X="14" Y="10" Morale="100" Strength="100" Training="150" Stance="C" Description="Austrian Infantry 1" />
+		<Unit Type="I" X="14" Y="11" Morale="100" Strength="100" Training="150" Stance="C" Description="Austrian Infantry 2" />
+		<Unit Type="I" X="14" Y="12" Morale="100" Strength="100" Training="150" Stance="C" Description="Austrian Infantry 3" />
+		<Unit Type="I" X="14" Y="13" Morale="100" Strength="100" Training="150" Stance="C" Description="Austrian Infantry 4" />
+
+       		<Unit Type="A" X="14" Y="6" Morale="100" Strength="100" Training="150" Stance="C" Description="Austrian Artillery 1" />
+		<Unit Type="A" X="14" Y="7" Morale="100" Strength="100" Training="150" Stance="C" Description="Austrian Artillery 2" />
+    </Units>
+</Map>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="24" MapSizeY="20" Background="Field0.jpg">
+		<Title Name="British vs Prussia 1." />
+		<Description>The Prussian royalty has dared to insult
+the Britsh King (his relative). We need to teach these
+germanic barbarians a thing or two about respect 
+of their betters. Alas the Prussians have fielded a 
+larger force, but the King is confident you will reign 
+supreme in his name.
+		</Description>
+	</Setup>
+	<Units Side="British" ComputerStance="Aggressive" Depth="2" PruneFar="Y" QuickCalc="N">
+		<Unit Type="I" X="6" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 1" />
+		<Unit Type="I" X="7" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 2" />
+		<Unit Type="I" X="8" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 3" />
+		<Unit Type="I" X="9" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 4" />
+		<Unit Type="C" X="5" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Cavalry 1" />
+		<Unit Type="C" X="4" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Cavalry 2" />
+		<Unit Type="C" X="10" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Cavalry 3" />
+		<Unit Type="C" X="11" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Cavalry 4" />
+		<Unit Type="C" X="20" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="English Cavalry 5" />
+		<Unit Type="C" X="21" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="English Cavalry 6" />
+		<Unit Type="A" X="7" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="English Artillery 1" />
+		<Unit Type="A" X="8" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="English Artillery 2" />
+	</Units>
+	<Units Side="Prussia" ComputerStance="Aggressive" Depth="2" PruneFar="Y" QuickCalc="N">
+		<Unit Type="I" X="3" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 1" />
+		<Unit Type="I" X="4" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 2" />
+		<Unit Type="I" X="5" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 3" />
+		<Unit Type="I" X="6" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 4" />
+		<Unit Type="I" X="7" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 5" />
+		<Unit Type="I" X="8" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 6" />
+		<Unit Type="I" X="9" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 7" />
+		<Unit Type="I" X="10" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 8" />
+		<Unit Type="I" X="11" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 9" />
+		<Unit Type="I" X="12" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 10" />
+		<Unit Type="I" X="3" Y="9" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 11" />
+		<Unit Type="I" X="12" Y="9" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 12" />	
+		<Unit Type="I" X="3" Y="7" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 13" />
+		<Unit Type="I" X="12" Y="7" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 14" />	
+		<Unit Type="C" X="7" Y="7" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 1" />
+		<Unit Type="C" X="9" Y="7" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 2" />
+		<Unit Type="A" X="8" Y="6" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Artillery 1" />
+	</Units>
+</Map>

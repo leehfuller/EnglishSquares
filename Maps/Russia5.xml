@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="20" MapSizeY="20" Background="Field6.jpg">
+		<Title Name="Russia vs French 2." />
+		<Description>Our losses have been high, but
+we've assembled the elite of the Motherland
+to face these Imperial French frogs.
+</Description>
+	</Setup>
+	<Units Side="Russia" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="5" Y="9" Morale="120" Strength="100" Training="150" Stance="L" Description="Russian Infantry Elite 1" />
+		<Unit Type="I" X="6" Y="9" Morale="120" Strength="100" Training="150" Stance="L" Description="Russian Infantry Elite 2" />
+		<Unit Type="I" X="15" Y="9" Morale="120" Strength="100" Training="150" Stance="L" Description="Russian Infantry Elite 3" />
+		<Unit Type="I" X="16" Y="9" Morale="120" Strength="100" Training="150" Stance="L" Description="Russian Infantry Elite 4" />
+
+		<Unit Type="C" X="5" Y="10" Morale="120" Strength="100" Training="150" Stance="L" Description="Russian Cavalry Elite 1" />
+		<Unit Type="C" X="6" Y="10" Morale="120" Strength="100" Training="150" Stance="L" Description="Russian Cavalry Elite 2" />
+		<Unit Type="C" X="15" Y="10" Morale="120" Strength="100" Training="150" Stance="L" Description="Russian Cavalry Elite 3" />
+		<Unit Type="C" X="16" Y="10" Morale="120" Strength="100" Training="150" Stance="L" Description="Russian Cavalry Elite 4" />
+
+		<Unit Type="A" X="5" Y="13" Morale="120" Strength="100" Training="150" Stance="L" Description="Russian Artillery Elite 1" />
+		<Unit Type="A" X="16" Y="13" Morale="120" Strength="100" Training="150" Stance="L" Description="Russian Artillery Elite 2" />
+	</Units>
+	<Units Side="French" ComputerStance="Defensive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="9" Y="5" Morale="100" Strength="100" Training="150" Stance="L" Description="French Infantry 1" />
+		<Unit Type="I" X="10" Y="5" Morale="100" Strength="100" Training="150" Stance="L" Description="French Infantry 2" />
+		<Unit Type="I" X="11" Y="5" Morale="100" Strength="100" Training="150" Stance="L" Description="French Infantry 3" />
+		<Unit Type="I" X="12" Y="5" Morale="100" Strength="100" Training="150" Stance="L" Description="French Infantry 4" />
+
+		<Unit Type="C" X="9" Y="4" Morale="100" Strength="100" Training="150" Stance="L" Description="French Cavalry 1" />
+		<Unit Type="C" X="10" Y="4" Morale="100" Strength="100" Training="150" Stance="L" Description="French Cavalry 2" />
+		<Unit Type="C" X="11" Y="4" Morale="100" Strength="100" Training="150" Stance="L" Description="French Cavalry 3" />
+		<Unit Type="C" X="12" Y="4" Morale="100" Strength="100" Training="150" Stance="L" Description="French Cavalry 4" />
+
+		<Unit Type="A" X="10" Y="1" Morale="100" Strength="100" Training="150" Stance="L" Description="French Artillery 1" />
+		<Unit Type="A" X="11" Y="1" Morale="100" Strength="100" Training="150" Stance="L" Description="French Artillery 2" />
+	</Units>
+</Map>

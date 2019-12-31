@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="20" MapSizeY="20" Background="Field5.jpg">
+		<Title Name="Russia vs British 2." />
+		<Description>We have the British on the
+run. Our Militia has been positioned to stop
+their remaining troops from escaping
+to their waiting fleet.
+</Description>
+	</Setup>
+	<Units Side="Russia" ComputerStance="Defensive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="5" Y="15" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 1" />
+		<Unit Type="I" X="6" Y="15" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 2" />
+		<Unit Type="I" X="7" Y="15" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 3" />
+		<Unit Type="I" X="8" Y="15" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 4" />
+		<Unit Type="I" X="9" Y="15" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 5" />
+		<Unit Type="I" X="5" Y="16" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 6" />
+		<Unit Type="I" X="6" Y="16" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 7" />
+		<Unit Type="I" X="7" Y="16" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 8" />
+		<Unit Type="I" X="8" Y="16" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 9" />
+		<Unit Type="I" X="9" Y="16" Morale="50" Strength="300" Training="50" Stance="L" Description="Russian Militia Infantry 10" />
+		<Unit Type="C" X="16" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Cavalry 1" />
+		<Unit Type="C" X="17" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Cavalry 2" />
+		<Unit Type="A" X="7" Y="18" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Artillery 1" />
+	</Units>
+	<Units Side="British" ComputerStance="Defensive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="7" Y="8" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 1" />
+		<Unit Type="I" X="8" Y="8" Morale="100" Strength="100" Training="200" Stance="L" Description="British Infantry 2" />
+		<Unit Type="I" X="7" Y="7" Morale="100" Strength="100" Training="200" Stance="L" Description="Royal Marines 1" />
+		<Unit Type="I" X="8" Y="7" Morale="100" Strength="100" Training="200" Stance="L" Description="Royal Marines 2" />
+
+		<Unit Type="I" X="6" Y="3" Morale="100" Strength="100" Training="200" Stance="L" Description="Scottish Infantry 1" />
+		<Unit Type="I" X="7" Y="3" Morale="100" Strength="100" Training="200" Stance="L" Description="Welsh Infantry 1" />
+		<Unit Type="I" X="6" Y="4" Morale="100" Strength="100" Training="200" Stance="L" Description="Irish Infantry 1" />
+		<Unit Type="I" X="7" Y="4" Morale="100" Strength="100" Training="200" Stance="L" Description="Royal Marines 3" />
+
+		<Unit Type="C" X="14" Y="8" Morale="100" Strength="100" Training="200" Stance="L" Description="Royal Cavalry Escort 1" />
+		<Unit Type="C" X="15" Y="8" Morale="100" Strength="100" Training="200" Stance="L" Description="Royal Cavalry Escort 2" />
+	</Units>
+</Map>

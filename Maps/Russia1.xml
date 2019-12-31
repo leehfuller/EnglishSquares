@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="20" MapSizeY="16" Background="Field4.jpg">
+		<Title Name="Russia vs French 1." />
+		<Description>It's time for the Russian people to
+rise and bury Napoleon's followers in the deep snow on
+the western territories of Russia. We cannot give you
+the best troops, but we have many in reserve to teach
+Napoleon a historical lesson about the resolve of Russia.
+		</Description>
+	</Setup>
+	<Units Side="Russia" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="2" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Infantry 1" />
+		<Unit Type="I" X="3" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Infantry 2" />
+		<Unit Type="I" X="4" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Infantry 3" />
+		<Unit Type="I" X="5" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Infantry 4" />
+		<Unit Type="I" X="6" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Infantry 5" />
+
+		<Unit Type="I" X="2" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Infantry 6" />
+		<Unit Type="I" X="3" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Infantry 7" />
+		<Unit Type="I" X="4" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Infantry 8" />
+		<Unit Type="I" X="5" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Infantry 9" />
+		<Unit Type="I" X="6" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Infantry 10" />
+
+		<Unit Type="C" X="9" Y="9" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Cavalry 1" />
+		<Unit Type="C" X="10" Y="9" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Cavalry 2" />
+		<Unit Type="A" X="4" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Artillery 1" />
+		<Unit Type="A" X="5" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Artillery 2" />
+	</Units>
+	<Units Side="French" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="3" Y="3" Morale="150" Strength="150" Training="150" Stance="L" Description="French Infantry 1" />
+		<Unit Type="I" X="4" Y="3" Morale="150" Strength="150" Training="150" Stance="L" Description="French Infantry 2" />
+		<Unit Type="I" X="5" Y="3" Morale="150" Strength="150" Training="150" Stance="L" Description="French Infantry 3" />
+		<Unit Type="I" X="3" Y="2" Morale="150" Strength="150" Training="150" Stance="L" Description="French Infantry 4" />
+		<Unit Type="I" X="4" Y="2" Morale="150" Strength="150" Training="150" Stance="L" Description="French Infantry 5" />
+		<Unit Type="I" X="5" Y="2" Morale="150" Strength="150" Training="150" Stance="L" Description="French Infantry 6" />
+		<Unit Type="C" X="8" Y="4" Morale="150" Strength="150" Training="150" Stance="L" Description="French Cavalry 1" />
+		<Unit Type="C" X="9" Y="4" Morale="150" Strength="150" Training="150" Stance="L" Description="French Cavalry 2" />
+		<Unit Type="A" X="3" Y="1" Morale="150" Strength="150" Training="150" Stance="L" Description="French Artillery 1" />
+		<Unit Type="A" X="4" Y="1" Morale="150" Strength="150" Training="150" Stance="L" Description="French Artillery 2" />
+		<Unit Type="A" X="5" Y="1" Morale="150" Strength="150" Training="150" Stance="L" Description="French Artillery 3" />
+	</Units>
+</Map>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="24" MapSizeY="20" Background="Field6.jpg">
+		<Title Name="British vs Prussia 2." />
+		<Description>The commerce for which the British Empire
+depends upon for her survival is being threatened by
+unfair competition from Prussian companies. It is
+important to show the Prussians that we can protect 
+our commerce whenever it is threatened, as well as 
+sticking their sausages where the sun doesn't shine.
+		</Description>
+	</Setup>
+	<Units Side="British" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="2" Y="10" Morale="200" Strength="200" Training="200" Stance="L" Description="English Infantry 1" />
+		<Unit Type="I" X="3" Y="10" Morale="200" Strength="200" Training="200" Stance="L" Description="English Infantry 2" />
+		<Unit Type="I" X="4" Y="10" Morale="200" Strength="200" Training="200" Stance="L" Description="English Infantry 3" />
+		<Unit Type="I" X="5" Y="10" Morale="200" Strength="200" Training="200" Stance="L" Description="English Infantry 4" />
+		<Unit Type="I" X="6" Y="10" Morale="200" Strength="200" Training="200" Stance="L" Description="English Infantry 5" />
+		<Unit Type="I" X="16" Y="10" Morale="200" Strength="200" Training="200" Stance="L" Description="Scottish Infantry 1" />
+		<Unit Type="I" X="17" Y="10" Morale="200" Strength="200" Training="200" Stance="L" Description="Scottish Infantry 2" />
+		<Unit Type="I" X="18" Y="10" Morale="200" Strength="200" Training="200" Stance="L" Description="Scottish Infantry 3" />
+		<Unit Type="I" X="19" Y="10" Morale="200" Strength="200" Training="200" Stance="L" Description="Scottish Infantry 4" />
+		<Unit Type="I" X="20" Y="10" Morale="200" Strength="200" Training="200" Stance="L" Description="Scottish Infantry 5" />
+		<Unit Type="C" X="9" Y="12" Morale="200" Strength="200" Training="200" Stance="L" Description="English Cavalry" />
+		<Unit Type="C" X="10" Y="12" Morale="200" Strength="200" Training="200" Stance="L" Description="English Cavalry" />
+		<Unit Type="C" X="11" Y="12" Morale="200" Strength="200" Training="200" Stance="L" Description="English Cavalry" />
+		<Unit Type="C" X="12" Y="12" Morale="200" Strength="200" Training="200" Stance="L" Description="English Cavalry" />
+		<Unit Type="C" X="13" Y="12" Morale="200" Strength="200" Training="200" Stance="L" Description="English Cavalry" />
+		<Unit Type="A" X="7" Y="10" Morale="200" Strength="200" Training="200" Stance="L" Description="English Artillery" />
+		<Unit Type="A" X="15" Y="10" Morale="200" Strength="200" Training="200" Stance="L" Description="English Artillery" />
+	</Units>
+	<Units Side="Prussia" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="8" Y="3" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Infantry 1" />
+		<Unit Type="I" X="9" Y="3" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Infantry 2" />
+		<Unit Type="I" X="10" Y="3" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Infantry 3" />
+		<Unit Type="I" X="8" Y="4" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Infantry 4" />
+		<Unit Type="I" X="9" Y="4" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Infantry 5" />
+		<Unit Type="I" X="10" Y="4" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Infantry 6" />
+		<Unit Type="I" X="8" Y="5" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Infantry 7" />
+		<Unit Type="I" X="9" Y="5" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Infantry 8" />
+		<Unit Type="I" X="10" Y="5" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Infantry 9" />
+		<Unit Type="I" X="8" Y="6" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Infantry 10" />
+		<Unit Type="I" X="9" Y="6" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Infantry 11" />
+		<Unit Type="I" X="10" Y="6" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Infantry 12" />
+		<Unit Type="C" X="15" Y="4" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Cavalry 1" />
+		<Unit Type="C" X="16" Y="4" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Cavalry 2" />
+		<Unit Type="C" X="15" Y="5" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Cavalry 3" />
+		<Unit Type="C" X="16" Y="5" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Cavalry 4" />
+		<Unit Type="A" X="5" Y="3" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Artillery 1" />
+		<Unit Type="A" X="6" Y="3" Morale="50" Strength="80" Training="80" Stance="L" Description="Prussia Artillery 2" />
+	</Units>
+</Map>

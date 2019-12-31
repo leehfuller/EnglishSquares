@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="16" MapSizeY="16" Background="Field5.jpg">
+		<Title Name="Prussia vs Russia 2." />
+		<Description>Your troops are committed to
+the fight on the eastern front and the battles
+have gone well. The ill-trained Russian troops
+keep on coming and we need a decisive victory
+to stem the flow.
+</Description>
+	</Setup>
+	<Units Side="Prussia" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="1" Y="11" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Infantry 1" />
+		<Unit Type="I" X="2" Y="11" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Infantry 2" />
+		<Unit Type="I" X="3" Y="11" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Infantry 3" />
+		<Unit Type="I" X="4" Y="11" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Infantry 4" />
+		<Unit Type="C" X="6" Y="12" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Cavalry 1" />
+		<Unit Type="C" X="7" Y="12" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Cavalry 2" />
+		<Unit Type="C" X="8" Y="12" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Cavalry 3" />
+		<Unit Type="C" X="9" Y="12" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Cavalry 4" />
+		<Unit Type="C" X="10" Y="12" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Cavalry 5" />
+		<Unit Type="C" X="11" Y="12" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Cavalry 6" />
+		<Unit Type="C" X="12" Y="12" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Cavalry 7" />
+		<Unit Type="C" X="13" Y="12" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Cavalry 8" />
+		<Unit Type="C" X="14" Y="12" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Cavalry 9" />
+		<Unit Type="C" X="1" Y="14" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Cavalry 10" />
+		<Unit Type="C" X="2" Y="14" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Cavalry 11" />
+		<Unit Type="C" X="3" Y="14" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Cavalry 12" />
+		<Unit Type="C" X="4" Y="14" Morale="200" Strength="150" Training="200" Stance="L" Description="Prussian Cavalry 13" />
+	</Units>
+	<Units Side="Russia" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="3" Y="7" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 1" />
+		<Unit Type="I" X="4" Y="7" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 2" />
+		<Unit Type="I" X="5" Y="7" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 3" />
+		<Unit Type="I" X="6" Y="7" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 4" />
+		<Unit Type="I" X="7" Y="7" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 5" />
+		<Unit Type="I" X="8" Y="7" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 6" />
+		<Unit Type="I" X="9" Y="7" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 7" />
+		<Unit Type="I" X="10" Y="7" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 8" />
+		<Unit Type="I" X="11" Y="7" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 9" />
+		<Unit Type="I" X="4" Y="5" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 10" />
+		<Unit Type="I" X="5" Y="5" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 11" />
+		<Unit Type="I" X="6" Y="5" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 12" />
+		<Unit Type="I" X="7" Y="5" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 13" />
+		<Unit Type="I" X="8" Y="5" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 14" />
+		<Unit Type="I" X="9" Y="5" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 15" />
+		<Unit Type="I" X="10" Y="5" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 16" />
+		<Unit Type="I" X="11" Y="5" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 17" />
+		<Unit Type="I" X="12" Y="5" Morale="50" Strength="200" Training="50" Stance="S" Description="Russian Militia 18" />
+		<Unit Type="I" X="5" Y="3" Morale="50" Strength="250" Training="80" Stance="L" Description="Russian Militia Reserve 1" />
+		<Unit Type="I" X="6" Y="3" Morale="50" Strength="250" Training="80" Stance="L" Description="Russian Militia Reserve 2" />
+		<Unit Type="I" X="7" Y="3" Morale="50" Strength="250" Training="80" Stance="L" Description="Russian Militia Reserve 3" />
+		<Unit Type="I" X="8" Y="3" Morale="50" Strength="250" Training="80" Stance="L" Description="Russian Militia Reserve 4" />
+		<Unit Type="I" X="9" Y="3" Morale="50" Strength="250" Training="80" Stance="L" Description="Russian Militia Reserve 5" />
+		<Unit Type="I" X="10" Y="3" Morale="50" Strength="250" Training="80" Stance="L" Description="Russian Militia Reserve 6" />
+	</Units>
+</Map>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="25" MapSizeY="20" Background="Field1.jpg">
+		<Title Name="Austria vs Russia 2." />
+		<Description>The Russians have made a
+fatal error, by sending in their masses of
+infantry to make claim to our territory.
+Our Cavalry will cut them to shreds.
+</Description>
+	</Setup>
+	<Units Side="Austria" ComputerStance="Aggressive" Depth="2" PruneFar="Y" QuickCalc="N">
+		<Unit Type="C" X="10" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 1" />
+		<Unit Type="C" X="11" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 2" />
+		<Unit Type="C" X="13" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 3" />
+		<Unit Type="C" X="14" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 4" />
+		<Unit Type="C" X="10" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 5" />
+		<Unit Type="C" X="11" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 6" />
+		<Unit Type="C" X="13" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 7" />
+		<Unit Type="C" X="14" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 8" />
+
+		<Unit Type="C" X="5" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 9" />
+		<Unit Type="C" X="6" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 10" />
+		<Unit Type="C" X="7" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 11" />
+		<Unit Type="C" X="8" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 12" />
+		<Unit Type="C" X="16" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 13" />
+		<Unit Type="C" X="17" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 14" />
+		<Unit Type="C" X="18" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 15" />
+		<Unit Type="C" X="19" Y="16" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 16" />
+	</Units>
+	<Units Side="Russia" ComputerStance="Defensive" Depth="2" PruneFar="Y" QuickCalc="N">
+		<Unit Type="I" X="4" Y="4" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 1" />
+		<Unit Type="I" X="5" Y="4" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 2" />
+		<Unit Type="I" X="6" Y="4" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 3" />
+		<Unit Type="I" X="7" Y="4" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 4" />
+		<Unit Type="I" X="8" Y="4" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 5" />
+		<Unit Type="I" X="9" Y="4" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 6" />
+
+		<Unit Type="I" X="15" Y="4" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 7" />
+		<Unit Type="I" X="16" Y="4" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 8" />
+		<Unit Type="I" X="17" Y="4" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 9" />
+		<Unit Type="I" X="18" Y="4" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 10" />
+		<Unit Type="I" X="19" Y="4" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 11" />
+		<Unit Type="I" X="20" Y="4" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 12" />
+
+		<Unit Type="I" X="4" Y="6" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 13" />
+		<Unit Type="I" X="5" Y="6" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 14" />
+		<Unit Type="I" X="6" Y="6" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 15" />
+		<Unit Type="I" X="7" Y="6" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 16" />
+		<Unit Type="I" X="8" Y="6" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 17" />
+		<Unit Type="I" X="9" Y="6" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 18" />
+
+		<Unit Type="I" X="15" Y="6" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 19" />
+		<Unit Type="I" X="16" Y="6" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 20" />
+		<Unit Type="I" X="17" Y="6" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 21" />
+		<Unit Type="I" X="18" Y="6" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 22" />
+		<Unit Type="I" X="19" Y="6" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 23" />
+		<Unit Type="I" X="20" Y="6" Morale="100" Strength="300" Training="100" Stance="L" Description="Russian Infantry 24" />
+	</Units>
+</Map>

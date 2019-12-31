@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="22" MapSizeY="18" Background="Field4.jpg">
+		<Title Name="Austria vs British 1." />
+		<Description>Those pretentious British have
+landed troops from their fleet and marched
+into our territory. We have them trapped -
+show no mercy!
+		</Description>
+	</Setup>
+	<Units Side="Austria" ComputerStance="Defensive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="C" X="6" Y="1" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 1" />
+		<Unit Type="A" X="7" Y="1" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Artillery 1" />
+		<Unit Type="I" X="8" Y="1" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 1" />
+		<Unit Type="I" X="9" Y="1" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 2" />
+		<Unit Type="I" X="10" Y="1" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 3" />
+		<Unit Type="I" X="11" Y="1" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 4" />
+		<Unit Type="I" X="12" Y="1" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 5" />
+		<Unit Type="A" X="13" Y="1" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Artillery 2" />
+		<Unit Type="C" X="14" Y="1" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 2" />
+		
+		<Unit Type="C" X="6" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 3" />
+		<Unit Type="A" X="7" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Artillery 3" />
+		<Unit Type="I" X="8" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 6" />
+		<Unit Type="I" X="9" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 7" />
+		<Unit Type="I" X="10" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 8" />
+		<Unit Type="I" X="11" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 9" />
+		<Unit Type="I" X="12" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Infantry 10" />
+		<Unit Type="A" X="13" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Artillery 4" />
+		<Unit Type="C" X="14" Y="15" Morale="100" Strength="100" Training="100" Stance="L" Description="Austrian Cavalry 4" />
+	</Units>
+	<Units Side="British" ComputerStance="Defensive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="8" Y="6" Morale="100" Strength="100" Training="100" Stance="S" Description="Royal Marines 1" />
+		<Unit Type="I" X="9" Y="6" Morale="100" Strength="100" Training="100" Stance="S" Description="Royal Marines 2" />
+		<Unit Type="I" X="10" Y="6" Morale="100" Strength="100" Training="100" Stance="S" Description="English Infantry 1" />
+		<Unit Type="I" X="11" Y="6" Morale="100" Strength="100" Training="100" Stance="S" Description="English Infantry 2" />
+		<Unit Type="I" X="12" Y="6" Morale="100" Strength="100" Training="100" Stance="S" Description="Scottish Infantry 1" />
+
+		<Unit Type="I" X="8" Y="10" Morale="100" Strength="100" Training="100" Stance="S" Description="Royal Marines 3" />
+		<Unit Type="I" X="9" Y="10" Morale="100" Strength="100" Training="100" Stance="S" Description="Royal Marines 4" />
+		<Unit Type="I" X="10" Y="10" Morale="100" Strength="100" Training="100" Stance="S" Description="English Infantry 3" />
+		<Unit Type="I" X="11" Y="10" Morale="100" Strength="100" Training="100" Stance="S" Description="Welsh Infantry 1" />
+		<Unit Type="I" X="12" Y="10" Morale="100" Strength="100" Training="100" Stance="S" Description="Scottish Infantry 2" />
+
+		<Unit Type="I" X="12" Y="7" Morale="100" Strength="100" Training="100" Stance="S" Description="Royal Marines 5" />
+		<Unit Type="I" X="12" Y="8" Morale="100" Strength="100" Training="100" Stance="S" Description="Irish Infantry 1" />
+		<Unit Type="I" X="12" Y="9" Morale="100" Strength="100" Training="100" Stance="S" Description="Welsh Infantry 2" />
+		<Unit Type="I" X="8" Y="7" Morale="100" Strength="100" Training="100" Stance="S" Description="Scottish Infantry 3" />
+		<Unit Type="I" X="8" Y="8" Morale="100" Strength="100" Training="100" Stance="S" Description="Irish Infantry 2" />
+		<Unit Type="I" X="8" Y="9" Morale="100" Strength="100" Training="100" Stance="S" Description="Welsh Infantry 3" />
+
+		<Unit Type="C" X="11" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Royal Cavalry 1" />
+		<Unit Type="A" X="10" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Royal Artillery 1" />
+	</Units>
+</Map>

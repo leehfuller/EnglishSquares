@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="20" MapSizeY="16" Background="Field6.jpg">
+		<Title Name="British vs Russia 1." />
+		<Description>The British army is outnumbered by Russian troops,
+but your men are better trained and disciplined. There is
+a wide battlefield for maximum maneourverability, so 
+take advantage with some flanking strategies.
+		</Description>
+	</Setup>
+	<Units Side="British" ComputerStance="Aggressive" Depth="2" PruneFar="Y" QuickCalc="Y">
+		<Unit Type="I" X="2" Y="10" Morale="200" Strength="100" Training="150" Stance="L" Description="English Infantry 1" />
+		<Unit Type="I" X="3" Y="10" Morale="200" Strength="100" Training="150" Stance="L" Description="English Infantry 2" />
+		<Unit Type="I" X="4" Y="10" Morale="200" Strength="100" Training="150" Stance="L" Description="English Infantry 3" />
+		<Unit Type="I" X="5" Y="10" Morale="200" Strength="100" Training="150" Stance="L" Description="English Infantry 4" />
+		<Unit Type="C" X="8" Y="10" Morale="200" Strength="100" Training="150" Stance="L" Description="English Cavalry 1" />
+		<Unit Type="C" X="9" Y="10" Morale="200" Strength="100" Training="150" Stance="L" Description="English Cavalry 2" />
+		<Unit Type="C" X="6" Y="10" Morale="200" Strength="100" Training="150" Stance="L" Description="English Cavalry 3" />
+		<Unit Type="C" X="7" Y="10" Morale="200" Strength="100" Training="150" Stance="L" Description="English Cavalry 4" />
+		<Unit Type="A" X="3" Y="12" Morale="200" Strength="100" Training="150" Stance="L" Description="English Artillery 1" />
+		<Unit Type="A" X="4" Y="12" Morale="200" Strength="100" Training="150" Stance="L" Description="English Artillery 2" />
+	</Units>
+	<Units Side="Russian" ComputerStance="Aggressive" Depth="2" PruneFar="Y" QuickCalc="Y">
+		<Unit Type="I" X="2" Y="6" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Infantry 1" />
+		<Unit Type="I" X="3" Y="6" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Infantry 2" />
+		<Unit Type="I" X="4" Y="6" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Infantry 3" />
+		<Unit Type="I" X="5" Y="6" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Infantry 4" />
+		<Unit Type="I" X="6" Y="6" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Infantry 5" />
+		<Unit Type="I" X="7" Y="6" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Infantry 6" />
+		<Unit Type="I" X="8" Y="6" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Infantry 7" />
+		<Unit Type="I" X="9" Y="6" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Infantry 8" />
+		<Unit Type="I" X="10" Y="6" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Infantry 9" />
+		<Unit Type="I" X="11" Y="6" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Infantry 10" />
+		<Unit Type="I" X="12" Y="6" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Infantry 11" />
+		<Unit Type="I" X="13" Y="6" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Infantry 12" />
+		<Unit Type="C" X="11" Y="4" Morale="100" Strength="200" Training="50" Stance="C" Description="Cossacks Cavalry 1" />
+		<Unit Type="C" X="12" Y="4" Morale="100" Strength="200" Training="50" Stance="C" Description="Cossacks Cavalry 2" />
+		<Unit Type="A" X="10" Y="4" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Artillery 1" />
+		<Unit Type="A" X="13" Y="4" Morale="100" Strength="200" Training="50" Stance="L" Description="Russian Artillery 2" />
+	</Units>
+</Map>

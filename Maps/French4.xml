@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="20" MapSizeY="20" Background="Field4.jpg">
+		<Title Name="French vs British 1." />
+		<Description>Those British are a nation full of 
+shop keepers and sailors. There are limited British 
+troops available for land battles, so Napoleon
+wishes to push them back into the sea. 
+Viva Emperor!
+		</Description>
+	</Setup>
+	<Units Side="French" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="1" Y="12" Morale="150" Strength="200" Training="150" Stance="L" Description="French Infantry 1" />
+		<Unit Type="I" X="2" Y="12" Morale="150" Strength="200" Training="150" Stance="L" Description="French Infantry 2" />
+		<Unit Type="I" X="3" Y="12" Morale="150" Strength="200" Training="150" Stance="L" Description="French Infantry 3" />
+		<Unit Type="I" X="4" Y="12" Morale="150" Strength="200" Training="150" Stance="L" Description="French Infantry 4" />
+		<Unit Type="I" X="5" Y="12" Morale="150" Strength="200" Training="150" Stance="L" Description="French Infantry 5" />
+		<Unit Type="I" X="6" Y="12" Morale="150" Strength="200" Training="150" Stance="L" Description="French Infantry 6" />
+		<Unit Type="I" X="7" Y="12" Morale="150" Strength="200" Training="150" Stance="L" Description="French Infantry 7" />
+		<Unit Type="I" X="8" Y="12" Morale="150" Strength="200" Training="150" Stance="L" Description="French Infantry 8" />
+		
+		<Unit Type="C" X="10" Y="12" Morale="150" Strength="100" Training="150" Stance="L" Description="French Imperial Cavalry 1" />
+		<Unit Type="C" X="15" Y="12" Morale="150" Strength="100" Training="150" Stance="L" Description="French Imperial Cavalry 2" />
+		
+		<Unit Type="A" X="12" Y="12" Morale="150" Strength="100" Training="150" Stance="L" Description="French Imperial Artillery 1" />
+		<Unit Type="A" X="13" Y="12" Morale="150" Strength="100" Training="150" Stance="L" Description="French Imperial Artillery 2" />
+	</Units>
+	<Units Side="British" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="1" Y="7" Morale="150" Strength="100" Training="150" Stance="L" Description="English Infantry 1" />
+		<Unit Type="I" X="2" Y="7" Morale="150" Strength="100" Training="150" Stance="L" Description="English Infantry 2" />
+		<Unit Type="I" X="3" Y="7" Morale="150" Strength="100" Training="150" Stance="L" Description="Scottish Infantry 1" />
+		<Unit Type="I" X="4" Y="7" Morale="150" Strength="100" Training="150" Stance="L" Description="Scottish Infantry 2" />
+		<Unit Type="I" X="5" Y="7" Morale="150" Strength="100" Training="150" Stance="L" Description="Welsh Infantry 1" />
+		<Unit Type="I" X="6" Y="7" Morale="150" Strength="100" Training="150" Stance="L" Description="Irish Infantry 1" />
+		<Unit Type="C" X="12" Y="6" Morale="150" Strength="200" Training="150" Stance="L" Description="Royal Cavalry 1" />
+		<Unit Type="C" X="14" Y="6" Morale="150" Strength="200" Training="150" Stance="L" Description="Royal Cavalry 2" />
+		<Unit Type="C" X="16" Y="6" Morale="150" Strength="200" Training="150" Stance="L" Description="Royal Cavalry 3" />
+		<Unit Type="C" X="18" Y="6" Morale="150" Strength="200" Training="150" Stance="L" Description="Royal Cavalry 4" />
+		<Unit Type="A" X="3" Y="5" Morale="150" Strength="100" Training="150" Stance="L" Description="Royal Artillery 1" />
+	</Units>
+</Map>

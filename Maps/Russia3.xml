@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="16" MapSizeY="16" Background="Field4.jpg">
+		<Title Name="Russia vs Prussia 1." />
+		<Description>The Czar believes that
+territories currently occupied by the
+Germanic tribes is really part of
+Mother Russia. You are part of the
+negotiating party.
+</Description>
+	</Setup>
+	<Units Side="Russia" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="5" Y="2" Morale="100" Strength="250" Training="90" Stance="L" Description="Russian Infantry 1" />
+		<Unit Type="I" X="5" Y="3" Morale="100" Strength="250" Training="90" Stance="L" Description="Russian Infantry 2" />
+		<Unit Type="I" X="5" Y="4" Morale="100" Strength="250" Training="90" Stance="L" Description="Russian Infantry 3" />
+		<Unit Type="I" X="5" Y="5" Morale="100" Strength="250" Training="90" Stance="L" Description="Russian Infantry 4" />
+		<Unit Type="I" X="5" Y="6" Morale="100" Strength="250" Training="90" Stance="L" Description="Russian Infantry 5" />
+
+		<Unit Type="C" X="5" Y="9" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Cavalry 1" />
+		<Unit Type="C" X="5" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Cavalry 2" />
+		<Unit Type="C" X="5" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Cavalry 3" />
+		<Unit Type="C" X="5" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Cavalry 4" />
+
+		<Unit Type="A" X="4" Y="2" Morale="100" Strength="100" Training="100" Stance="L" Description="Russian Artillery 1" />
+	</Units>
+	<Units Side="Prussia" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="9" Y="8" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 1" />
+		<Unit Type="I" X="9" Y="9" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 2" />
+		<Unit Type="I" X="9" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 3" />
+		<Unit Type="I" X="9" Y="11" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 4" />
+		<Unit Type="I" X="9" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 5" />
+
+    	<Unit Type="C" X="9" Y="2" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 1" />
+		<Unit Type="C" X="9" Y="3" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 2" />
+		<Unit Type="C" X="9" Y="4" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 3" />
+		<Unit Type="C" X="9" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 4" />
+
+		<Unit Type="A" X="10" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Artillery 1" />
+	</Units>
+</Map>

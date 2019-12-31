@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="20" MapSizeY="20" Background="Field1.jpg">
+		<Title Name="Tutorial E. Infantry Holding Ground" />
+		<Description>There are two types of soldier, the
+infantryman and the troops to support the infantryman.
+You can only hold ground with infantry, so show the 
+emperor what a strong character is all about and 
+take whatever abuse that's dished out. Double 
+Rum rations for all troops!
+		</Description>
+	</Setup>
+	<Units Side="British" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="8" Y="6" Morale="100" Strength="100" Training="100" Stance="S" Description="English Infantry 1" />
+		<Unit Type="I" X="9" Y="6" Morale="100" Strength="100" Training="100" Stance="S" Description="English Infantry 2" />
+
+		<Unit Type="I" X="11" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 3" />
+		<Unit Type="I" X="12" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 4" />
+		<Unit Type="I" X="13" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 5" />
+		<Unit Type="I" X="14" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 6" />
+
+		<Unit Type="I" X="2" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 7" />
+		<Unit Type="I" X="3" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 8" />
+		<Unit Type="I" X="4" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 9" />
+		<Unit Type="I" X="5" Y="10" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 10" />
+
+		<Unit Type="I" X="5" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 11" />
+		<Unit Type="I" X="6" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 12" />
+		<Unit Type="I" X="7" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 13" />
+		<Unit Type="I" X="8" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 14" />
+		<Unit Type="I" X="9" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 15" />
+		<Unit Type="I" X="10" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 16" />
+		<Unit Type="I" X="11" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="English Infantry 17" />
+
+		<Unit Type="A" X="8" Y="16" Morale="100" Strength="200" Training="100" Stance="L" Description="English Artillery" />
+	</Units>
+	<Units Side="French" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="3" Y="4" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 1" />
+		<Unit Type="I" X="4" Y="4" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 2" />
+		<Unit Type="I" X="5" Y="4" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 3" />
+		<Unit Type="I" X="6" Y="4" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 4" />
+		<Unit Type="I" X="3" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 5" />
+		<Unit Type="I" X="4" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 6" />
+		<Unit Type="I" X="5" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 7" />
+		<Unit Type="I" X="6" Y="5" Morale="100" Strength="100" Training="100" Stance="L" Description="French Infantry 8" />
+				
+		<Unit Type="C" X="8" Y="4" Morale="100" Strength="100" Training="100" Stance="L" Description="French Cavalry 1" />
+		<Unit Type="C" X="9" Y="4" Morale="100" Strength="100" Training="100" Stance="L" Description="French Cavalry 2" />
+
+		<Unit Type="C" X="14" Y="6" Morale="100" Strength="100" Training="100" Stance="L" Description="French Cavalry 3" />
+		<Unit Type="C" X="15" Y="6" Morale="100" Strength="100" Training="100" Stance="L" Description="French Cavalry 4" />
+
+		<Unit Type="A" X="11" Y="3" Morale="100" Strength="200" Training="100" Stance="L" Description="French Artillery 1" />
+		<Unit Type="A" X="12" Y="3" Morale="100" Strength="200" Training="100" Stance="L" Description="French Artillery 2" />
+	</Units>
+</Map>

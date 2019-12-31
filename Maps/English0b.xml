@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="18" MapSizeY="14" Background="Field0.jpg">
+		<Title Name="Tutorial B. Importance of a Square." />
+		<Description>British Infantry units face French Cavalry Units.
+If the Infantry face the Cavalry whilst in a line or column
+formation, then they'll be slaughtered. The best defense
+is to get your men to change formation into disciplined 
+British squares, providing an island of defense against the 
+onslaught of French horseman.
+		</Description>
+	</Setup>
+	<Units Side="British" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="5" Y="8" Morale="150" Strength="120" Training="120" Stance="L" Description="Scottish Infantry 3" />
+		<Unit Type="I" X="6" Y="8" Morale="150" Strength="120" Training="120" Stance="L" Description="Scottish Infantry 1" />
+		<Unit Type="I" X="7" Y="8" Morale="90" Strength="120" Training="100" Stance="L" Description="Irish Infantry 1" />
+		<Unit Type="I" X="8" Y="8" Morale="100" Strength="120" Training="120" Stance="L" Description="English Infantry 1" />
+		<Unit Type="I" X="9" Y="8" Morale="150" Strength="120" Training="120" Stance="L" Description="Scottish Infantry 2" />
+		<Unit Type="I" X="10" Y="8" Morale="100" Strength="120" Training="120" Stance="L" Description="English Infantry 2" />
+		<Unit Type="I" X="11" Y="8" Morale="150" Strength="100" Training="200" Stance="L" Description="British Rifles 1" />
+		<Unit Type="I" X="12" Y="8" Morale="150" Strength="100" Training="200" Stance="L" Description="British Rifles 2" />
+
+		<Unit Type="I" X="8" Y="12" Morale="90" Strength="120" Training="100" Stance="L" Description="Irish Infantry 2" />
+		<Unit Type="I" X="9" Y="12" Morale="100" Strength="120" Training="120" Stance="L" Description="English Infantry 3" />
+	</Units>
+	<Units Side="French" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="C" X="5" Y="3" Morale="110" Strength="150" Training="120" Stance="L" Description="French Cavalry 3" />
+		<Unit Type="C" X="6" Y="3" Morale="150" Strength="125" Training="150" Stance="L" Description="French Imperial Chasseurs 1" />
+		<Unit Type="C" X="7" Y="3" Morale="100" Strength="150" Training="120" Stance="L" Description="French Cavalry 1" />
+		<Unit Type="C" X="8" Y="3" Morale="110" Strength="150" Training="120" Stance="L" Description="French Cavalry 2" />
+		<Unit Type="C" X="9" Y="3" Morale="150" Strength="125" Training="150" Stance="L" Description="French Imperial Chasseurs 2" />
+	</Units>
+</Map>

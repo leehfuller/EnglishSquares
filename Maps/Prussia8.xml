@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<Setup MapSizeX="16" MapSizeY="16" Background="Field4.jpg">
+		<Title Name="Prussia vs French 2." />
+		<Description>Napoleon is ripe for a final
+humiliation by our Prussian forces. We
+have managed to collect a force that
+should be able to humble his much
+vaunted troops into a retreat all
+the way back to Paris.
+</Description>
+	</Setup>
+	<Units Side="Prussia" ComputerStance="Aggressive" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="3" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 1" />
+		<Unit Type="I" X="4" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 2" />
+		<Unit Type="I" X="5" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 3" />
+		<Unit Type="I" X="6" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 4" />
+		<Unit Type="I" X="7" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 5" />
+		<Unit Type="I" X="8" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 6" />
+		<Unit Type="I" X="9" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 7" />
+		<Unit Type="I" X="10" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 8" />
+		<Unit Type="I" X="11" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 9" />
+		<Unit Type="I" X="12" Y="12" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Infantry 10" />
+
+		<Unit Type="C" X="3" Y="13" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 1" />
+		<Unit Type="C" X="4" Y="13" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 2" />
+		<Unit Type="C" X="5" Y="13" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 3" />
+		<Unit Type="C" X="6" Y="13" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 4" />
+		<Unit Type="C" X="7" Y="13" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 5" />
+		<Unit Type="C" X="8" Y="13" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 6" />
+		<Unit Type="C" X="9" Y="13" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 7" />
+		<Unit Type="C" X="10" Y="13" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 8" />
+		<Unit Type="C" X="11" Y="13" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 9" />
+		<Unit Type="C" X="12" Y="13" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Cavalry 10" />
+
+		<Unit Type="A" X="6" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Artillery 1" />
+		<Unit Type="A" X="7" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Artillery 2" />
+		<Unit Type="A" X="8" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Artillery 3" />
+		<Unit Type="A" X="9" Y="14" Morale="100" Strength="100" Training="100" Stance="L" Description="Prussian Artillery 4" />
+	</Units>
+	<Units Side="French" ComputerStance="Neutral" Depth="2" PruneFar="N" QuickCalc="N">
+		<Unit Type="I" X="1" Y="4" Morale="150" Strength="100" Training="200" Stance="L" Description="French Infantry 1" />
+		<Unit Type="I" X="2" Y="4" Morale="150" Strength="100" Training="200" Stance="L" Description="French Infantry 2" />
+		<Unit Type="I" X="3" Y="4" Morale="150" Strength="100" Training="200" Stance="L" Description="French Infantry 3" />
+		<Unit Type="I" X="4" Y="4" Morale="150" Strength="100" Training="200" Stance="L" Description="French Infantry 4" />
+		<Unit Type="I" X="5" Y="4" Morale="150" Strength="100" Training="200" Stance="L" Description="French Infantry 5" />
+		<Unit Type="I" X="6" Y="4" Morale="150" Strength="100" Training="200" Stance="L" Description="French Infantry 6" />
+
+		<Unit Type="C" X="8" Y="2" Morale="150" Strength="150" Training="200" Stance="L" Description="French Cavalry 1" />
+		<Unit Type="C" X="9" Y="2" Morale="150" Strength="150" Training="200" Stance="L" Description="French Cavalry 2" />
+		<Unit Type="C" X="10" Y="2" Morale="150" Strength="150" Training="200" Stance="L" Description="French Cavalry 3" />
+		<Unit Type="C" X="11" Y="2" Morale="150" Strength="150" Training="200" Stance="L" Description="French Cavalry 4" />
+		<Unit Type="C" X="12" Y="2" Morale="150" Strength="150" Training="200" Stance="L" Description="French Cavalry 5" />
+		<Unit Type="C" X="13" Y="2" Morale="150" Strength="150" Training="200" Stance="L" Description="French Cavalry 6" />
+		<Unit Type="C" X="2" Y="3" Morale="150" Strength="150" Training="200" Stance="L" Description="French Cavalry 7" />
+		<Unit Type="C" X="5" Y="3" Morale="150" Strength="150" Training="200" Stance="L" Description="French Cavalry 8" />
+
+		<Unit Type="A" X="3" Y="3" Morale="150" Strength="100" Training="200" Stance="L" Description="French Artillery 1" />
+		<Unit Type="A" X="4" Y="3" Morale="150" Strength="100" Training="200" Stance="L" Description="French Artillery 2" />
+	</Units>
+</Map>
