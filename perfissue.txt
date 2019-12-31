@@ -1,0 +1,15 @@
+
+2 level look-ahead
+
+6085 seconds! (101 minutes)
+
+50983265 moves!
+
+
+with dummy player weight calculation (constant 100):
+
+3 level look ahead
+
+82 seconds
+
+50983265 moves
